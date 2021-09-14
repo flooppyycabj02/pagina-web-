@@ -1,0 +1,13 @@
+fortalezas:
+-asendosa
+-responsable
+-respetuosa
+-honesta
+-paciente
+
+debilidades:
+-mal caracter
+-negativa
+-ironica 
+-manipuladora
+-resentida 
